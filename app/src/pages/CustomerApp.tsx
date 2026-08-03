@@ -235,7 +235,7 @@ function ConfirmationScreen({ deal, onDone }: { deal: Deal; onDone: () => void }
       <div className="mt-5 flex h-40 w-40 items-center justify-center rounded-2xl border-2 border-dashed border-neutral-300 text-5xl dark:border-neutral-700">
         ▦
       </div>
-      <p className="mt-2 text-xs text-neutral-400">QR code placeholder — #WFR-{deal.id.toUpperCase()}</p>
+      <p className="mt-2 text-xs text-neutral-400">QR code placeholder — #BQY-{deal.id.toUpperCase()}</p>
       <button
         onClick={onDone}
         className="mt-6 w-full rounded-full bg-neutral-900 py-3 font-semibold text-white dark:bg-white dark:text-neutral-900"

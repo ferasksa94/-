@@ -40,7 +40,7 @@ export default function Landing() {
               <span className="text-amber-600 dark:text-amber-400">Save money. Save the planet.</span>
             </h1>
             <p className="mt-5 max-w-lg text-lg text-neutral-600 dark:text-neutral-400">
-              Waffir connects bakeries, cafés, and restaurants with surplus food near
+              Baqiya connects bakeries, cafés, and restaurants with surplus food near
               its expiry time to customers nearby — at up to 70% off. Less waste for
               businesses, better prices for you.
             </p>
@@ -86,7 +86,7 @@ export default function Landing() {
       {/* How it works */}
       <section className="mx-auto max-w-6xl px-4 py-16">
         <h2 className="text-center text-2xl font-bold text-neutral-900 sm:text-3xl dark:text-white">
-          How Waffir works
+          How Baqiya works
         </h2>
         <div className="mt-10 grid gap-8 sm:grid-cols-3">
           {steps.map((step, i) => (
@@ -131,7 +131,7 @@ export default function Landing() {
       </section>
 
       <footer className="border-t border-neutral-200 py-8 text-center text-sm text-neutral-500 dark:border-neutral-800 dark:text-neutral-500">
-        Waffir — provisional working name, pending brand naming in the blueprint's branding section.
+        Baqiya (باقية) — "what remains." Working name pending formal SAIP trademark clearance.
       </footer>
     </div>
   )

@@ -13,9 +13,9 @@ export default function NavBar() {
       <div className="mx-auto flex max-w-6xl flex-wrap items-center justify-between gap-3 px-4 py-3">
         <div className="flex items-center gap-2">
           <span className="text-xl">🥖</span>
-          <span className="font-semibold text-neutral-900 dark:text-neutral-50">Waffir</span>
+          <span className="font-semibold text-neutral-900 dark:text-neutral-50">Baqiya</span>
           <span className="rounded-full bg-amber-100 px-2 py-0.5 text-xs font-medium text-amber-800 dark:bg-amber-900/40 dark:text-amber-300">
-            prototype — placeholder branding
+            prototype
           </span>
         </div>
         <nav className="flex gap-1 rounded-full bg-neutral-100 p-1 text-sm dark:bg-neutral-900">
